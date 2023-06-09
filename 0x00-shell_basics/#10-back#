@@ -1,2 +1,4 @@
-m->#!/bin/bash
+_
+
+#!/bin/bash
 cd ~
